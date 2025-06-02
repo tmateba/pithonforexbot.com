@@ -1,1 +1,1 @@
-# pithonforexbot.com
+pithonforexbot.github.io
